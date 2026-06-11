@@ -20,7 +20,7 @@ This project contains the following documentation and design files:
 
 **Organization:** Cloud Company - Cloud Solutions Provider  
 **Employees:** ~600 across 3-floor office building  
-**Availability Target:** 99.9% uptime (Four 9s)
+
 
 ### Key Network Components
 
