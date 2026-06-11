@@ -12,6 +12,7 @@ This project contains the following documentation and design files:
 |------|-------------|
 | **Cloud_Company_Secure_Network.md** | Project scenario, business requirements, network components, and IP address allocation |
 | **designing and implementation of secure company network system.pkt** | Cisco Packet Tracer network simulation with complete topology and device configurations |
+| **[Cloud_Company_Network_Documentation.pdf](Cloud_Company_Network_Documentation.pdf)** | Comprehensive network documentation and implementation guide |
 
 ---
 
